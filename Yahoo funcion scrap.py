@@ -42,8 +42,6 @@ def get_data(url):
         print(df)
         df.to_csv('Tablas data')
 
-    # ingresar el link del listado
-
-
+# ingresar el link del list
 get_data('')
 
