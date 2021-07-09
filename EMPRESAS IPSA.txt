@@ -4,7 +4,7 @@ https://es.finance.yahoo.com/quote/BSANTANDER.SN/key-statistics?p=BSANTANDER.SN&
 https://es.finance.yahoo.com/quote/CMPC.SN/key-statistics?p=CMPC.SN&.tsrc=fin-srch
 https://es.finance.yahoo.com/quote/BCH/key-statistics?p=BCH&.tsrc=fin-srch
 https://es.finance.yahoo.com/quote/ENELAM.SN/key-statistics?p=ENELAM.SN&.tsrc=fin-srch
-https://es.finance.yahoo.com/quote/SQM-B.SN?p=SQM-B.SN&.tsrc=fin-srch
+https://es.finance.yahoo.com/quote/SQM-B.SN/key-statistics?p=SQM-B.SN
 https://es.finance.yahoo.com/quote/CENCOSUD.SN/key-statistics?p=CENCOSUD.SN&.tsrc=fin-srch
 https://es.finance.yahoo.com/quote/BCI.SN/key-statistics?p=BCI.SN&.tsrc=fin-srch
 https://es.finance.yahoo.com/quote/ENELCHILE.SN/key-statistics?p=ENELCHILE.SN&.tsrc=fin-srch

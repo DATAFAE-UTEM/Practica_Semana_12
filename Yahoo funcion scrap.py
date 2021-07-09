@@ -15,9 +15,10 @@ chrome_options.add_argument("--window-size=1920x1080")
 driver = webdriver.Chrome(options=chrome_options,
                           executable_path="C:\\Program Files (x86)\\chromedriver.exe")
 
+list ='C:\\Users\\marti\\OneDrive\\Documentos\\GitHub\\Practica_Semana_12\\EMPRESAS IPSA.txt'
 
-def get_data(url):
-    driver.get(url)
+for urls in list:
+    driver.get(urls)
     # tiempo para interactuar con navegador
     time.sleep(8)
     # numero de filas y columnas
@@ -41,7 +42,3 @@ def get_data(url):
         df = df.append(data, ignore_index=True)
         print(df)
         df.to_csv('Tablas data')
-
-# ingresar el link del list
-get_data('')
-
